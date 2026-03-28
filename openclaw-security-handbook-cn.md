@@ -1,4 +1,4 @@
-# OpenClaw 安全配置使用手册
+# OpenClaw 安全手册
 
 > **作者： ZAST.AI安全研究团队**
 
@@ -7,7 +7,7 @@
 > **每一个暴露在网络上的 Agent，都是猎物。**
 
 
-![pic](openclaw_security.png)
+![pic](img/openclaw_security.png)
 
 ---
 
