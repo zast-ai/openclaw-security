@@ -2,6 +2,9 @@
 
 > **作者： ZAST.AI安全研究团队**
 
+![Public Research Index](https://img.shields.io/badge/Public-Research%20Index-111827?style=for-the-badge)
+![By ZAST.AI](https://img.shields.io/badge/By-ZAST.AI-0369a1?style=for-the-badge)
+
 > Languages: [English](README.md) | [Chinese](openclaw-security-handbook-cn.md)
 
 > **每一个暴露在网络上的 Agent，都是猎物。**
