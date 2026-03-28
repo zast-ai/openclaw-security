@@ -1,6 +1,9 @@
 # OpenClaw Security Handbook
 > **Author: ZAST.AI Security Research Team**
 
+![Public Research Index](https://img.shields.io/badge/Public-Research%20Index-111827?style=for-the-badge)
+![By ZAST.AI](https://img.shields.io/badge/By-ZAST.AI-0369a1?style=for-the-badge)
+
 > Languages: [English](README.md) | [Chinese](openclaw-security-handbook-cn.md)
 
 > **Every Agent exposed on the network is prey.**
