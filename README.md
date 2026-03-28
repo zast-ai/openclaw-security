@@ -20,7 +20,7 @@ OpenClaw is a powerful multi-channel AI gateway — it can connect your Telegram
 2. **Untrusted input** — anyone can send content to it through message channels
 3. **Execution capability** — it can run commands on your system, send messages, and call APIs
 
-These three combined mean that a successful attack can cause enormous damage. The Acronis Threat Research Unit calls this a "new privileged identity." As of early 2026, **40,000+ publicly exposed OpenClaw instances** have been discovered through scanning, and Pillar Security has documented large-scale automated attacks against these instances — including credential theft, command execution, and session hijacking.
+These three combined mean that a successful attack can cause enormous damage. The Acronis Threat Research Unit calls this a "new privileged identity." As of March 2026, **140,000+ publicly exposed OpenClaw instances** have been discovered through scanning, and Pillar Security has documented large-scale automated attacks against these instances — including credential theft, command execution, and session hijacking.
 
 **Real incidents that have already happened:**
 
