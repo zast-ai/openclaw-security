@@ -1,4 +1,4 @@
-# OpenClaw Security Configuration User Manual
+# OpenClaw Security Handbook
 > **Author: ZAST.AI Security Research Team**
 
 > Languages: [English](README.md) | [Chinese](openclaw-security-handbook-cn.md)
